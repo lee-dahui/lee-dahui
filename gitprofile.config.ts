@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'YOUR_GITHUB_USERNAME', // TODO: GitHub 사용자명으로 바꿔 주세요. (This is the only required config)
+    username: 'lee-dahui', // TODO: GitHub 사용자명으로 바꿔 주세요. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
