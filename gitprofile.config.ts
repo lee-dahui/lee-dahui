@@ -1,6 +1,5 @@
 // gitprofile.config.ts
 
-
 const CONFIG = {
   github: {
     username: 'lee-dahui', // TODO: GitHub 사용자명으로 바꿔 주세요. (This is the only required config)
