@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'lee-dahui', // TODO: GitHub 사용자명으로 바꿔 주세요. (This is the only required config)
+    username: 'lee-dahui', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -114,13 +114,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'Ulsan National Institute of Science and Technology (UNIST)',
-      degree: 'Ph.D. Student, Mathematical Sciences (GPA 3.81/4.3)',
+      degree: 'Ph.D. Student, Mathematical Sciences',
       from: '2024',
       to: 'Present',
     },
     {
       institution: 'Ulsan National Institute of Science and Technology (UNIST)',
-      degree: 'B.S. in Mathematical Sciences (GPA 3.63/4.3)',
+      degree: 'B.S. in Mathematical Sciences',
       from: '2020',
       to: '2024',
     },
